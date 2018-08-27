@@ -6,3 +6,5 @@ def parrot (a,b)
   string = "Squawk!"
   puts output
 end  
+
+parrot(chirp, whine)
