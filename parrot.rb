@@ -4,5 +4,5 @@
 
 def parrot (output = "Squawk!")
   puts output
-  return String
+  output
 end  
