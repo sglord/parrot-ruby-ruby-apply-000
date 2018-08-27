@@ -3,5 +3,5 @@
 
 
 def parrot ("Squawk!", input)
-\  puts string
+  puts input
 end  
