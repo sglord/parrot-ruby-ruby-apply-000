@@ -3,5 +3,6 @@
 
 
 def parrot (string)
+  string = "swua"
   puts string
 end  
