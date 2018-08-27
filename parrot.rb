@@ -3,6 +3,5 @@
 
 
 def parrot ("Squawk!", input)
-  string = "swua"
-  puts string
+\  puts string
 end  
